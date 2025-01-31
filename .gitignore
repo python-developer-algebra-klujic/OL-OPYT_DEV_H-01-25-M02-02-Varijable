@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+m2-vars-zadaci/
 
 # Spyder project settings
 .spyderproject
